@@ -2,7 +2,7 @@
 
 - Aplicacao desenvolvida em C# utilizando interface grafica (Window Form Aplication).
 
-Para baixar o executavel basta seguir o link e clicar em download: [link](https://github.com/cdmo1/CalculadoraImc_GUI/blob/master/bin/Debug/CalculoIMC.exe "Link para download")
+Para baixar o executavel basta seguir o link e clicar em download: [link](https://github.com/cdmo1/CalculadoraImc_GUI/blob/master/CalculoIMC/bin/Debug/CalculoIMC.exe "Link para download")
 
 
 
