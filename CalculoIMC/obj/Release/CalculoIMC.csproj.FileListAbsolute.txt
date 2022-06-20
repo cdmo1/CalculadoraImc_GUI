@@ -1,0 +1,12 @@
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\bin\Release\CalculoIMC.exe.config
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\bin\Release\CalculoIMC.exe
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\bin\Release\CalculoIMC.pdb
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.Calculadora.resources
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.Form1.resources
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.Properties.Resources.resources
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.exe
+C:\Users\Carlos Eduardo\Desktop\CalculoIMC\CalculoIMC\obj\Release\CalculoIMC.pdb
